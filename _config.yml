@@ -10,10 +10,10 @@ bing_site_verification   :
 baidu_site_verification  :
 
 author:
-  name             : "Lin Yashan"
+  name             : "Yashan Lin"
   avatar           : "images/duomi.jpg"
   bio              : "Master's Student, Universiti Malaya"
-  location         : "Kuala Lumpur, Malaysia"
+  location         : 
   employer         : 
   pubmed           : 
   googlescholar    :
@@ -46,6 +46,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  cv                : "files/cv.pdf"
 
 # Reading Files
 include:
