@@ -25,7 +25,7 @@ Before that, I received my B.Eng. in Robotics Engineering from Putian University
 My research interests lie in reinforcement learning for robot locomotion, with a focus on enabling robots to acquire complex dynamic behaviours. I am broadly curious about embodied AI and actively exploring directions at the intersection of robot learning and physical systems.
 
 
-# 📝 Publications 
+# Academic Papers
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTRAC 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -39,6 +39,10 @@ The 2nd International Transdisciplinary Research Conference (INTRAC 2026), Unive
 </div>
 </div>
 
+# News
+- *Mar 2025 – Present*, Master of Systems Engineering, Universiti Malaya
+- *Sep 2020 – Jun 2024*, B.Eng. in Robotics Engineering, Putian University (GPA: 86.6/100.0, Rank 3/304)
+
 # 🎖 Honors and Awards
 - *2021 – 2024* First-Class Excellence Scholarship, Putian University
 - *2022* National Second Prize, China Robot and Artificial Intelligence Competition
@@ -47,11 +51,11 @@ The 2nd International Transdisciplinary Research Conference (INTRAC 2026), Unive
 - *2023* Second Prize, Fujian Province MCU Application Design Competition
 - *2021 – 2024* Outstanding Student (University-level), Putian University
 
-# 📖 Educations
+# Educations
 - *Mar 2025 – Present*, Master of Systems Engineering, Universiti Malaya
 - *Sep 2020 – Jun 2024*, B.Eng. in Robotics Engineering, Putian University (GPA: 86.6/100.0, Rank 3/304)
 
-# 🔬 Research Experience
+# Projects
 
 **Reinforcement Learning-Controlled Quadruped Robot: From Basic Gaits to Complex Motions**
 *Oct 2025 – Present, Universiti Malaya, Advisor: Prof. Mahidzal Dahari*
@@ -82,7 +86,7 @@ To validate the feasibility of AMP on the Unitree Go2, I implemented a velocity-
 - Developed autonomous navigation and target shooting across 5 waypoints (3 shooting positions + start/end) on a competition-provided platform using ROS1.
 - Calibrated waypoint coordinates and actuation timing to achieve precise in-zone positioning and water balloon launching at each target.
 
-# 💻 Skills
+# Skills
 - **Programming:** Python, C/C++, MATLAB
 - **Tools & Frameworks:** Isaac Lab, MuJoCo, PyTorch, ROS1, ROS2, Git, Linux, STM32, SolidWorks
 - **Languages:** English (PTE Academic: 58), Chinese (Native)
