@@ -20,28 +20,12 @@ redirect_from:
 # Welcome!
 
 I am a Master's student in Systems Engineering at Universiti Malaya, advised by Prof. Mahidzal Dahari.
-Before that, I received my B.Eng. in Robotics Engineering from Putian University.
 
 My research interests lie in reinforcement learning for robot locomotion, with a focus on enabling robots to acquire complex dynamic behaviours. I am broadly curious about embodied AI and actively exploring directions at the intersection of robot learning and physical systems.
 
-
-# Academic Papers
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTRAC 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Reinforcement Learning-Controlled Quadruped Robot: From Basic Gaits to Complex Motions**
-
-**Lin, Y.**, Dahari, M.
-
-The 2nd International Transdisciplinary Research Conference (INTRAC 2026), Universiti Malaya. *(In Press)*
-- Developed a three-stage progressive locomotion training framework for Unitree Go2, achieving Trotting, Four-Legged Synchronised Jumping, and Lateral Alternating Jumping via PPO, RSI, and AMP, with sim-to-sim validation in MuJoCo.
-</div>
-</div>
-
-# News
+# Educations
 - *Mar 2025 – Present*, Master of Systems Engineering, Universiti Malaya
-- *Sep 2020 – Jun 2024*, B.Eng. in Robotics Engineering, Putian University (GPA: 86.6/100.0, Rank 3/304)
+- *Sep 2020 – Jun 2024*, B.Eng. in Robotics Engineering, Putian University (GPA: 86.6/100.0, Top 1\%)
 
 # Honors and Awards
 - *2021 – 2024* First-Class Excellence Scholarship, Putian University
