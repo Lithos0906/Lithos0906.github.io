@@ -1,5 +1,5 @@
 title                    : "Lin Yashan"
-description              : "Master's student in Systems Engineering at Universiti Malaya, working on reinforcement learning-based locomotion control for legged robots."
+description              : 
 repository               : "Lithos0906/lithos0906.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -14,7 +14,7 @@ author:
   avatar           : "images/duomi.jpg"
   bio              : "Master's Student, Universiti Malaya"
   location         : "Kuala Lumpur, Malaysia"
-  employer         : "Universiti Malaya"
+  employer         : 
   pubmed           : 
   googlescholar    :
   email            : "lithos0515@gmail.com"
@@ -78,4 +78,3 @@ exclude:
   - package.json
   - tmp
   - vendor
-  
