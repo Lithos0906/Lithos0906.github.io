@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master's student in Systems Engineering at Universiti Malaya, supervised by Prof. Mahidzal Dahari. My research focuses on reinforcement learning-based locomotion control for the Unitree Go2 quadruped robot, exploring a three-stage progressive training framework — from trotting to four-legged synchronised jumping and lateral alternating jumping — using PPO, AMP, and RSI in Isaac Lab, with sim-to-sim validation in MuJoCo.
+I am a Master's student in Systems Engineering at Universiti Malaya, supervised by Prof. Mahidzal Dahari. My research focuses on reinforcement learning-based locomotion control for the Unitree Go2 quadruped robot, exploring a three-stage progressive training framework - from trotting to four-legged synchronised jumping and lateral alternating jumping - using PPO, AMP, and RSI in Isaac Lab, with sim-to-sim validation in MuJoCo.
 
 I received my B.Eng. in Robotics Engineering from Putian University in 2024 (Rank 3/304), where I worked on embedded systems projects including a multifunctional STM32-based foot bath robot and a YOLOv8-powered automated waste sorting system.
 
