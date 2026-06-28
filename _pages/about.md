@@ -17,42 +17,71 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Master's student in Systems Engineering at Universiti Malaya, supervised by Prof. Mahidzal Dahari. My research focuses on reinforcement learning-based locomotion control for the Unitree Go2 quadruped robot, exploring a three-stage progressive training framework — from trotting to four-legged synchronised jumping and lateral alternating jumping — using PPO, AMP, and RSI in Isaac Lab, with sim-to-sim validation in MuJoCo.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I received my B.Eng. in Robotics Engineering from Putian University in 2024 (Rank 3/304), where I worked on embedded systems projects including a multifunctional STM32-based foot bath robot and a YOLOv8-powered automated waste sorting system.
 
+My research interests lie in reinforcement learning for robot locomotion, with a focus on enabling robots to acquire complex dynamic behaviours. I am broadly curious about embodied AI and actively exploring directions at the intersection of robot learning and physical systems.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTRAC 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Reinforcement Learning-Controlled Quadruped Robot: From Basic Gaits to Complex Motions**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Lin, Y.**, Dahari, M.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+The 2nd International Transdisciplinary Research Conference (INTRAC 2026), Universiti Malaya. *(In Press)*
+- Developed a three-stage progressive locomotion training framework for Unitree Go2, achieving Trotting, Four-Legged Synchronised Jumping, and Lateral Alternating Jumping via PPO, RSI, and AMP, with sim-to-sim validation in MuJoCo.
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021 – 2024* First-Class Excellence Scholarship, Putian University
+- *2022* National Second Prize, China Robot and Artificial Intelligence Competition
+- *2023* First Prize (Special), Fujian Province Engineering Training & Innovation Competition
+- *2023* Second Prize, Fujian Province Lanqiao Cup Software & IT Talent Competition
+- *2023* Second Prize, Fujian Province MCU Application Design Competition
+- *2021 – 2024* Outstanding Student (University-level), Putian University
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Mar 2025 – Present*, Master of Systems Engineering, Universiti Malaya
+- *Sep 2020 – Jun 2024*, B.Eng. in Robotics Engineering, Putian University (GPA: 86.6/100.0, Rank 3/304)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🔬 Research Experience
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+**Reinforcement Learning-Controlled Quadruped Robot: From Basic Gaits to Complex Motions**
+*Oct 2025 – Present, Universiti Malaya, Advisor: Prof. Mahidzal Dahari*
+- Developed a three-stage progressive locomotion training framework for Unitree Go2 using PPO in Isaac Lab across 2,048 parallel environments, achieving Trotting, Four-Legged Synchronised Jumping, and Lateral Alternating Jumping, with all policies validated via sim-to-sim transfer in MuJoCo.
+- Designed stage-specific reward functions including phase-clock-based gait synchronisation, feet clearance, and flight-phase penalties, combined with velocity curriculum learning and domain randomisation across all stages.
+- Implemented RSI with 8 manually designed keyframes and AMP refinement for Stage 3, confirmed by ablation study to be essential for achieving coordinated lateral alternating jumping.
+
+**Velocity-Tracking Locomotion with AMP (Preliminary Study)**
+*Jun 2025 – Aug 2025, Universiti Malaya, Advisor: Prof. Mahidzal Dahari*
+
+To validate the feasibility of AMP on the Unitree Go2, I implemented a velocity-tracking policy in Isaac Lab using the open-source `legged_control` dataset.
+
+- **Key Finding:** Learned behaviour is fundamentally constrained by reference data coverage — a forward-only dataset failed to generalise to backward locomotion, highlighting that dataset balance is a critical design factor in AMP-based training.
+
+**Design of a Multifunctional Foot Bath Robot Based on Microcontroller** (Bachelor's Thesis)
+*Nov 2023 – Apr 2024, Putian University, Advisor: Lian Jialing*
+- Independently designed and implemented a full-stack embedded system based on STM32F103RCT6, integrating 8 subsystems including motion control, temperature regulation, UWB positioning, and remote APP control.
+- Developed PID-based temperature control (±0.5°C accuracy) with DS18B20 sensor and trapezoidal acceleration/deceleration algorithm for stepper motor motion control via PWM.
+- Achieved 3 cm UWB positioning accuracy; designed mechanical structure independently using SolidWorks.
+
+**YOLOv8-Based Automated Waste Classification and Sorting System**
+*Oct 2022 – Mar 2023, Putian University, Advisor: Chen Min — First Prize (Special), Fujian Province Engineering Training & Innovation Competition*
+- Developed an automated waste sorting system using a dual-conveyor belt mechanism with YOLOv8-based real-time classification of 4 waste categories deployed on Raspberry Pi.
+- Implemented STM32-controlled servo routing to direct classified waste into corresponding bins based on detection results.
+
+**Autonomous Navigation and Precision Shooting Robot**
+*Mar 2022 – Aug 2022, Putian University, Advisor: Zhao Yawen — National Second Prize, China Robot and Artificial Intelligence Competition*
+- Developed autonomous navigation and target shooting across 5 waypoints (3 shooting positions + start/end) on a competition-provided platform using ROS1.
+- Calibrated waypoint coordinates and actuation timing to achieve precise in-zone positioning and water balloon launching at each target.
+
+# 💻 Skills
+- **Programming:** Python, C/C++, MATLAB
+- **Tools & Frameworks:** Isaac Lab, MuJoCo, PyTorch, ROS1, ROS2, Git, Linux, STM32, SolidWorks
+- **Languages:** English (PTE Academic: 58), Chinese (Native)
