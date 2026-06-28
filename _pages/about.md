@@ -43,17 +43,13 @@ The 2nd International Transdisciplinary Research Conference (INTRAC 2026), Unive
 - *Mar 2025 – Present*, Master of Systems Engineering, Universiti Malaya
 - *Sep 2020 – Jun 2024*, B.Eng. in Robotics Engineering, Putian University (GPA: 86.6/100.0, Rank 3/304)
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2021 – 2024* First-Class Excellence Scholarship, Putian University
 - *2022* National Second Prize, China Robot and Artificial Intelligence Competition
 - *2023* First Prize (Special), Fujian Province Engineering Training & Innovation Competition
 - *2023* Second Prize, Fujian Province Lanqiao Cup Software & IT Talent Competition
 - *2023* Second Prize, Fujian Province MCU Application Design Competition
 - *2021 – 2024* Outstanding Student (University-level), Putian University
-
-# Educations
-- *Mar 2025 – Present*, Master of Systems Engineering, Universiti Malaya
-- *Sep 2020 – Jun 2024*, B.Eng. in Robotics Engineering, Putian University (GPA: 86.6/100.0, Rank 3/304)
 
 # Projects
 
